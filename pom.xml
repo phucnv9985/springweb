@@ -49,6 +49,11 @@
 		<url>git@github:phucnv9985/springweb.git</url>
 		<tag>HEAD</tag>
 	</scm-->
+	<scm>
+		<connection>scm:git:git@github.com:phucnv9985/pringweb.git</connection>
+		<developerConnection>scm:git:git@github:phucnv9985/springweb.git</developerConnection>
+		<url>git@github:phucnv9985/springweb.git</url>
+	</scm>
 	<dependencies>
 		<!-- <dependency>
 			<groupId>org.springframework.boot</groupId>
