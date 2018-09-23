@@ -4,7 +4,7 @@
 
 	<groupId>com.learning</groupId>
 	<artifactId>springweb</artifactId>
-	<version>0.0.1</version>
+	<version>0.0.2-SNAPSHOT</version>
 	<packaging>war</packaging>
 
 	<name>springweb</name>
@@ -46,7 +46,7 @@
 		<connection>scm:git:git@github.com:phucnv9985/springweb.git</connection>
 		<developerConnection>scm:git:git@github.com:phucnv9985/springweb.git</developerConnection>
 		<url>git@github.com:phucnv9985/springweb.git</url>
-		<tag>springweb-0.0.1</tag>
+		<tag>HEAD</tag>
 	</scm>
 	<dependencies>
 		<!-- <dependency>
